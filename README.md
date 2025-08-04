@@ -22,8 +22,7 @@ An intelligent and interactive Virtual Assistant built with React.js, designed t
 ## 🖥️ Tech Stack
 ### 🧑‍💻 Frontend
 - React.js
-- Tailwind CSS
-- Axios
+- CSS
 - React Hooks
 - 🤖 AI Integration
 - OpenAI GPT API
